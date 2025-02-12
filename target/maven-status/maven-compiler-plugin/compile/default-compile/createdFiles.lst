@@ -1,0 +1,14 @@
+com\ecommerce\servlet\LogoutServlet.class
+com\mycompany\e\commerce\JakartaRestConfiguration.class
+com\ecommerce\entities\Product.class
+com\ecommerce\servlet\ProductOperationServlet.class
+com\ecommerce\dao\categoryDao.class
+com\ecommerce\entities\User.class
+com\ecommerce\servlet\LoginServlet.class
+com\ecommerce\helper\FactoryProvider.class
+com\ecommerce\entities\Category.class
+com\mycompany\e\commerce\resources\JakartaEE8Resource.class
+com\ecommerce\dao\ProductDao.class
+com\ecommerce\servlet\RegisterServlet.class
+com\ecommerce\helper\Helper.class
+com\ecommerce\dao\UserDao.class
